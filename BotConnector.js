@@ -19,7 +19,7 @@ client.once('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
 });
 
-client.login('');
+client.login(BOT_TOKEN);
 
 function sendToChannel(channelId, message) {
     const channel = client.channels.cache.get(channelId);
