@@ -2,9 +2,9 @@ const { Client, GatewayIntentBits } = require('discord.js');
 require('dotenv').config();
 
 const BOT_TOKEN = process.env.BOT_TOKEN; // Replace with your bot token
-const GENERAL_CHANNEL_ID = '1358550826788065435';
+const GENERAL_CHANNEL_ID = '1358550826788065436';
 const USERID = '696071031953162270'; //XThejamabronX
-const GUILDID = '881620734269591603'; //XThejamabronX's server
+const GUILDID = '1358550825550614598'; //XThejamabronX's server
 
 const client = new Client({ intents: [
     GatewayIntentBits.Guilds,
