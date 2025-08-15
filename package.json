@@ -1,0 +1,24 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "This is the main REPO for where my code for a discord bot will sit",
+  "main": "BotConnector.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesMcCann13/Discord-Bot-New-Repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesMcCann13/Discord-Bot-New-Repo/issues"
+  },
+  "homepage": "https://github.com/JamesMcCann13/Discord-Bot-New-Repo#readme",
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.1"
+  }
+}
