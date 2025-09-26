@@ -4,14 +4,15 @@
   "description": "This is the main REPO for where my code for a discord bot will sit",
   "main": "BotConnector.js",
   "scripts": {
+    "start": "node BotConnector.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JamesMcCann13/Discord-Bot-New-Repo.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["discord", "bot", "discord.js", "api"],
+  "author": "James McCann",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/JamesMcCann13/Discord-Bot-New-Repo/issues"
